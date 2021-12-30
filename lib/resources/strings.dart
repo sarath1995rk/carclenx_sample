@@ -1,0 +1,1 @@
+const kCarShop = 'Car Shoppe';
